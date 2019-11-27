@@ -6,13 +6,17 @@ In this repo, you will find David's modified FreeChaF for real hardware, and the
 View DJ's build live hack here: https://synthiam.com/Community/HackEvents/Hacking-decision-C64-or-Fairchild-Channel-F-18819
 
 # Folders
-/3D Printing - contains the design files for 3d printing the console button holder
+/3D Printing
+contains the design files for 3d printing the console button holder
 
-/Fairchild_Pi_Joystick_Paddle_Multi - Arduino Micro firmware for the USB joystick emulator
+/Fairchild_Pi_Joystick_Paddle_Multi
+Arduino Micro firmware for the USB joystick emulator
 
-/Fairchild_Pi_Keyboard_Switches - Arduino Micro firmware for the USB keyboard emulator that emulates the console buttons
+/Fairchild_Pi_Keyboard_Switches
+Arduino Micro firmware for the USB keyboard emulator that emulates the console buttons
 
-/FreeChaF-master - the lib retro freechaf emulator src modified for real hardware
+/FreeChaF-master
+The lib retro freechaf emulator src modified for real hardware
 
 # Dj's Hacked Fairchild Example
 
