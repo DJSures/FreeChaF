@@ -1,9 +1,9 @@
 # FreeChaF
-FreeChaF is a libretro emulation core for the Fairchild ChannelF / Video Entertainment System designed to be compatible with joypads from the SNES era forward.
+This fork is of FreeChaF with changes to use the Fairchild Channel F original controllers and console buttons connected to a raspberry pi via Arduino Micro or Leonardo.
 
 ## Authors
 
-FreeChaF was created by David Richardson.
+FreeChaF was created by David Richardson, this fork has changes by DJ Sures
 
 ## License
 The FreeChaF core is licensed under GPLv3.
@@ -25,20 +25,22 @@ If the ChannelF II BIOS is included, it will be used instead of sl31253.  All ga
 * BIOS filenames are case-sensitive
 
 ## Console button overlay
-Access to the console buttons is provided via an overlay.  Pressing 'start' on either controller will display the console buttons.  You can select a button by moving left and right and press the button with any of the face buttons (A, B, X, Y).  Pressing 'start' a second time will hide the overlay.
+Access to the console buttons is provided by the Arduino. The LibRetro configuration should have the assignments of numeric values 1, 2, 3, 4 to buttons A, B, X, Z. 
 
 ## Controls
-* **Console Overlay** - allows the user to view and select console buttons.
-* **Controller Swap** - Controller Swap swaps the player 1 and player 2 controllers.
-
 | FreeChaF Function | Retropad |
 | --- | --- |
-|Forward| D-Pad Up, Left-Analog Up|
-|Backward| D-Pad Down, Left-Analog Down|
-|Rotate Left | Y, L, Right-Analog Left |
-|Rotate Right | A, R, Right-Analog Right |
-|Pull Up | X, Right-Analog Up |
-|Push Down | B, Right-Analog Down |
+|Forward| Left-Analog Up|
+|Backward| Left-Analog Down|
+|Rotate Right-Analog Left |
+|Rotate Right | ight-Analog Right |
+|Pull Up | Right-Analog Up |
+|Push Down | Right-Analog Down |
 |Show/Hide Console Overlay | Start |
 |Controller Swap | Select |
+|Reset | Left Trigger, R |
+|Console 1 | A |
+|Console 2 | B |
+|Console 3 | X |
+|Console 4 | Z |
 
