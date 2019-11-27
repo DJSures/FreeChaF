@@ -74,3 +74,32 @@ Access to the console buttons are provided by the Arduino. The LibRetro configur
 |Console 3 | X | 3 | 
 |Console 4 | Z | 4 |
 
+## How to
+Installing this in a fairchild channel f is quite easy. 
+
+1) Open the fairchild channel f and remove the PCB
+
+2) Disconnect the power adapter and joysticks
+
+3) Desolder the console buttons (careful, this is an old machine)
+
+4) 3D print the console button holder
+
+5) Solder the console buttons with a common GND. Each other wire connects to the Arduino pins documented in the Arduino folder's Keyboard firmware code
+
+6) Solder the joystick switches to the USB Joystick arduino micro. The pins are documented in the code. The WHITE wire gets GND
+
+7) Program both of the Arduino's with their respective code
+
+8) Build the freechaf for lib retro by copying the FreeChaf-Master folder to your raspberry pi
+
+9) type make in the freechaf-master folder
+
+10) chmod +x ./install.sh ; ./install.sh
+
+11) load emulation station and configure the buttons appropiately 
+
+12) Have fun!
+
+
+
