@@ -62,7 +62,7 @@ Access to the console buttons is provided by the Arduino. The LibRetro configura
 | --- | --- | --- |
 |Forward| Left-Analog Up||
 |Backward| Left-Analog Down||
-|Rotate Right-Analog Left ||
+|Rotate Left | Right-Analog Left ||
 |Rotate Right | Right-Analog Right ||
 |Pull Up | Right-Analog Up ||
 |Push Down | Right-Analog Down ||
