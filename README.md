@@ -7,15 +7,19 @@ View DJ's build live hack here: https://synthiam.com/Community/HackEvents/Hackin
 
 # Folders
 /3D Printing
+
 contains the design files for 3d printing the console button holder
 
 /Fairchild_Pi_Joystick_Paddle_Multi
+
 Arduino Micro firmware for the USB joystick emulator
 
 /Fairchild_Pi_Keyboard_Switches
+
 Arduino Micro firmware for the USB keyboard emulator that emulates the console buttons
 
 /FreeChaF-master
+
 The lib retro freechaf emulator src modified for real hardware
 
 # Dj's Hacked Fairchild Example
