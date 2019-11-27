@@ -58,19 +58,19 @@ If the ChannelF II BIOS is included, it will be used instead of sl31253.  All ga
 Access to the console buttons is provided by the Arduino. The LibRetro configuration should have the assignments of numeric values 1, 2, 3, 4 to buttons A, B, X, Z. 
 
 ## Controls
-| FreeChaF Function | Retropad |
-| --- | --- |
-|Forward| Left-Analog Up|
-|Backward| Left-Analog Down|
-|Rotate Right-Analog Left |
-|Rotate Right | ight-Analog Right |
-|Pull Up | Right-Analog Up |
-|Push Down | Right-Analog Down |
-|Show/Hide Console Overlay | Start |
-|Controller Swap | Select |
-|Reset | Left Trigger, R |
-|Console 1 | A |
-|Console 2 | B |
-|Console 3 | X |
-|Console 4 | Z |
+| FreeChaF Function | Retropad | Keyboard Assignment |
+| --- | --- | --- |
+|Forward| Left-Analog Up||
+|Backward| Left-Analog Down||
+|Rotate Right-Analog Left ||
+|Rotate Right | Right-Analog Right ||
+|Pull Up | Right-Analog Up ||
+|Push Down | Right-Analog Down ||
+|Show/Hide Console Overlay | Start | q |
+|Controller Swap | Select | w |
+|Reset | Left Trigger | R | 
+|Console 1 | A | 1 |
+|Console 2 | B | 2 |
+|Console 3 | X | 3 | 
+|Console 4 | Z | 4 |
 
