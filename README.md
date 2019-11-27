@@ -1,5 +1,5 @@
 # FreeChaF
-This fork is of FreeChaF with changes to use the Fairchild Channel F original controllers and console buttons connected to a raspberry pi via Arduino Micro or Leonardo.
+This fork is of FreeChaF with changes to use the Fairchild Channel F original controllers and console buttons connected to a raspberry pi via Arduino Micro or Leonardo. Original Repo here: https://github.com/libretro/FreeChaF
 
 ## Authors
 
