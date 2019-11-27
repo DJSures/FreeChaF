@@ -5,7 +5,7 @@ In this repo, you will find David's modified FreeChaF for real hardware, and the
 
 View DJ's build live hack here: https://synthiam.com/Community/HackEvents/Hacking-decision-C64-or-Fairchild-Channel-F-18819
 
-![Image of hacked fairchild channel f]https://synthiam.com/uploads/user/DB763BE15E695777689418BE7364E0A3/4bjrm5jn.jpeg)
+![Image of hacked fairchild channel f](https://synthiam.com/uploads/user/DB763BE15E695777689418BE7364E0A3/4bjrm5jn.jpeg)
 
 ![Image of raspberry pi in fairchild channel f](https://synthiam.com/uploads/user/DB763BE15E695777689418BE7364E0A3/uaapv1nh.jpeg)
 
