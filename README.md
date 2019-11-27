@@ -54,8 +54,8 @@ If the ChannelF II BIOS is included, it will be used instead of sl31253.  All ga
 
 * BIOS filenames are case-sensitive
 
-## Console button overlay
-Access to the console buttons is provided by the Arduino. The LibRetro configuration should have the assignments of numeric values 1, 2, 3, 4 to buttons A, B, X, Z. 
+## Console buttons
+Access to the console buttons are provided by the Arduino. The LibRetro configuration should have the assignments of numeric values 1, 2, 3, 4 to buttons A, B, X, Z. When a button is pressed, a console overlay will display that shows what button was pressed.
 
 ## Controls
 | FreeChaF Function | Retropad | Keyboard Assignment |
