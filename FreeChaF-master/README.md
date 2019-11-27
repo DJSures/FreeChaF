@@ -1,6 +1,8 @@
 # FreeChaF
 This fork is of FreeChaF with changes to use the Fairchild Channel F original controllers and console buttons connected to a raspberry pi via Arduino Micro or Leonardo.
 
+In this repo, you will find David's modified FreeChaF for real hardware, and the arduino code that emulates USB joystick and USB keyboard devices. The wiring of each controller direction to corresponding arduino i/o pin is located in the INO file. 
+
 ## Authors
 
 FreeChaF was created by David Richardson, this fork has changes by DJ Sures
