@@ -1,9 +1,11 @@
 # FreeChaF
 This fork is of FreeChaF with changes to use the Fairchild Channel F original controllers and console buttons connected to a raspberry pi via Arduino Micro or Leonardo. Original Repo here: https://github.com/libretro/FreeChaF
 
-## Authors
+View DJ's build live hack here: https://synthiam.com/Community/HackEvents/Hacking-decision-C64-or-Fairchild-Channel-F-18819
 
-FreeChaF was created by David Richardson, this fork has changes by DJ Sures
+## Authors
+FreeChaF was created by David Richardson.
+This fork for real hardware by DJ Sures
 
 ## License
 The FreeChaF core is licensed under GPLv3.
