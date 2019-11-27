@@ -5,14 +5,19 @@ In this repo, you will find David's modified FreeChaF for real hardware, and the
 
 View DJ's build live hack here: https://synthiam.com/Community/HackEvents/Hacking-decision-C64-or-Fairchild-Channel-F-18819
 
+Channel F with raspberry pi and two arduinos emulating the joysticks and console buttons
 ![Image of hacked fairchild channel f](assets/4bjrm5jn.jpeg)
 
+The raspberry pi mounted with stand-offs exposing the hdmi and power via a hole cut in the back of the channel f chassis
 ![Image of raspberry pi in fairchild channel f](assets/uaapv1nh.jpeg)
 
+The arduino micro that emulates a USB Keyboard device and connects to the console buttons
 ![Image of Arduino for fairchild channel f console emulator](assets/oztoeps5.jpeg)
 
+The console buttons held with a 3d printed bracket 
 ![Image of fairchild channel f console buttons 3d printed holder](assets/edi5ylrn.jpeg)
 
+The arduino micro that emulates 2 USB joysticks for the channel f joysticks
 ![Image of arduino joystick emulator for fairchild channel f](assets/hvmtsoid.jpeg)
 
 ## Authors
